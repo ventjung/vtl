@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "VTL": {
+      "commandName": "Project",
+      "commandLineArgs": "source.vtl"
+    }
+  }
+}
